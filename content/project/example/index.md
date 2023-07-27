@@ -8,7 +8,7 @@ tags:
 external_link: 'https://sfb1502.de/projects/cluster-a/a05'
 
 image:
-  caption:
+  caption: DETECT CRC 1502
   focal_point: Smart
 
 # links:
