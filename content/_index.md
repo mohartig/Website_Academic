@@ -146,7 +146,7 @@ sections:
 #        - name: All
 #          tag: '*'
         - name: CRC 1502
-          tag: '*'
+          tag: Representation of adaptation
 #        - name: Other
 #          tag: Demo
     design:
