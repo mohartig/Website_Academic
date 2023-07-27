@@ -5,16 +5,16 @@ tags:
   - Representation of adaptation
 
 # Optional external URL for project (replaces project detail page).
-external_link: 'https://sfb1502.de/projects/cluster-a/a05'
+# external_link: 'https://sfb1502.de/projects/cluster-a/a05'
 
 image:
   caption: DETECT CRC 1502
   focal_point: Smart
 
-# links:
+links: 
 # url_code: ''
 # url_pdf: ''
-# url_slides: ''
+ url_slides: 'https://sfb1502.de/projects/cluster-a/a05'
 # url_video: ''
 
 # Slides (optional).
