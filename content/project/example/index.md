@@ -7,22 +7,23 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://sfb1502.de/projects/cluster-a/a05'
 
-image:
+image: featured.png
   caption:
   focal_point: Smart
 
-links:
-url_code: ''
-url_pdf: ''
-url_slides: ''
-url_video: ''
+# links:
+# url_code: ''
+# url_pdf: ''
+# url_slides: ''
+# url_video: ''
 
 # Slides (optional).
 #   Associate this project with Markdown slides.
 #   Simply enter your slide deck's filename without extension.
 #   E.g. `slides = "example-slides"` references `content/slides/example-slides.md`.
 #   Otherwise, set `slides = ""`.
-slides: example
+
+# slides: example
 ---
 
 Within CRC1502 DETECT, we aim at improving our understanding of regional climate change beyond greenhouse gas (GHG) forcing. We focus on disentangling the role that changes in land use and water management as drivers of climate change can play via modifying the water cycle. We believe that complementing the picture of local climate change drivers—besides CO 2 and other GHGs—by accounting for these important channels is mandatory today.
