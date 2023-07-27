@@ -19,7 +19,7 @@ abstract: 'Farm Accountancy Data Network (FADN) comes without the exact location
 #   End time can optionally be hidden by prefixing the line with `#`.
  date: '2023-09-20T12:00:00Z'
  date_end: '2023-09-22T12:00:00Z'
-all_day: true
+all_day: Right
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
