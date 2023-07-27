@@ -39,13 +39,10 @@ education:
       institution: University of Göttingen
       year: present
     - course: MSc in Development Economics (Double Degree)
-      institution: University of Florence, Italy
-      year: 2022    
-    - course: MSc in Development Economics (Double Degree)
-      institution: University of Göttingen, Germany
+      institution: University of Göttingen, Germany; University of Florence, Italy
       year: 2022
     - course: BSc in Economics
-      institution: University of Mannheim, Germany
+      institution: University of Mannheim, Germany; University of North Carolina at Greensboro, USA
       year: 2020
 
 # Social/Academic Networking
