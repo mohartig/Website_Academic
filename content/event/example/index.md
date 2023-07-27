@@ -1,8 +1,8 @@
 ---
-title: 63rd GEWISOLA Conference
+title: XXX
 
-event: 63rd GEWISOLA Conference
-event_url: https://www.uni-goettingen.de/en/668052.html
+event: XXX
+event_url: 'https://www.uni-goettingen.de/en/668052.html'
 
 location: Göttingen, Germany
 # address:
