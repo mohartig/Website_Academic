@@ -1,47 +1,52 @@
 ---
 # Display name
-title: Alice Wu 吳恩達
+title: Moritz Hartig
 
 # Full name (for SEO)
-first_name: Alice
-last_name: Wu
+first_name: Moritz
+last_name: Hartig
 
 # Status emoji
 status:
-  icon: ☕️
+#  icon: ☕️
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: PhD Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: University of Göttingen
+    url: https://www.uni-goettingen.de/de/prof.+dr.+silke+h%C3%BCttel+/655566.html
+  - name: CRC 1502 DETECT
+    url:  https://sfb1502.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: My research interests include spatial analysis of farm-level observations, productivity and efficiency analysis, and development economics.
 
 # Interests to show in About widget
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Efficiency and Productivity Analysis
+  - Agricultural Business, Economics, and Policy
+  - Development Economics
 
 # Education to show in About widget
 education:
   courses:
-    - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+    - course: PhD in Agriculture Economics
+      institution: University of Göttingen
+      year: present
+    - course: MSc in Development Economics (Double Degree)
+      institution: University of Florence, Italy
+      year: 2022    
+    - course: MSc in Development Economics (Double Degree)
+      institution: University of Göttingen, Germany
+      year: 2022
+    - course: BSc in Economics
+      institution: University of Mannheim, Germany
+      year: 2020
 
 # Social/Academic Networking
 # For available icons, see: https://wowchemy.com/docs/getting-started/page-builder/#icons
