@@ -211,9 +211,8 @@ sections:
       text: |-
         Shoot me a message!
       # Contact (add or remove contact options as necessary)
-      email: test@example.org
-      phone: 888 888 88 88
-      appointment_url: 'https://calendly.com'
+      email: moritz.hartig@uni-goettingen.de
+      phone: +49 (0)551 39-27985
       address:
         street: Platz der Göttinger Sieben 5
         city: Göttingen
