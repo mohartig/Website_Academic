@@ -29,7 +29,7 @@ authors: Moritz Hartig, Stefan Seifert, Silke Hüttel
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'GEWISOLA'
