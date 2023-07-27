@@ -1,6 +1,6 @@
 ---
 title: Collaborative Research Centre CRC1502 DETECT
-summary: A05 Representation of adaptation: the on-farm perspective
+summary: A05 Representation of adaptation - the on-farm perspective
 tags:
   - Representation of adaptation
 
