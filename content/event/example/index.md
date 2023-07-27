@@ -5,6 +5,7 @@ event: 63rd GEWISOLA Conference
 event_url: 'https://www.uni-goettingen.de/en/668052.html'
 
 location: Göttingen, Germany
+
 # address:
 #  street: 450 Serra Mall
 #  city: Stanford
@@ -17,9 +18,9 @@ abstract: 'Farm Accountancy Data Network (FADN) comes without the exact location
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
- date: '2023-09-20T12:00:00Z'
- date_end: '2023-09-22T12:00:00Z'
-all_day: Right
+date: '2023-09-20T12:00:00Z'
+date_end: '2023-09-22T12:00:00Z'
+all_day: true
 
 # Schedule page publish date (NOT talk date).
 # publishDate: '2017-01-01T00:00:00Z'
