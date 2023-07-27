@@ -57,8 +57,8 @@ image:
 #   Simply enter your project's folder or file name without extension.
 #   E.g. `projects = ["internal-project"]` references `content/project/deep-learning/index.md`.
 #   Otherwise, set `projects = []`.
-projects: 
-  - example
+# projects: 
+#  - example
 ---
 
 The 63rd Annual Conference of the Society for Economic and Social Sciences of Agriculture (GEWISOLA) will take place from Wednesday, 20 September to Friday, 22 September 2023 at the Georg August University in Göttingen. The conference theme is "Sustainable food systems and land use change" 
