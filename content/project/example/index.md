@@ -11,10 +11,10 @@ image:
   caption: DETECT CRC 1502
   focal_point: Smart
 
-links: 
+#links: 
 # url_code: ''
 # url_pdf: ''
- url_slides: 'https://sfb1502.de/projects/cluster-a/a05'
+# url_slides: 'https://sfb1502.de/projects/cluster-a/a05'
 # url_video: ''
 
 # Slides (optional).
