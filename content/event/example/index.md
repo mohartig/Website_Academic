@@ -60,10 +60,6 @@ projects:
   - example
 ---
 
-# {{% callout note %}}
-# Click on the **Slides** button above to view the built-in slides feature.
-# {{% /callout %}}
-
 # Slides can be added in a few ways:
 
 # - **Create** slides using Wowchemy's [_Slides_](https://wowchemy.com/docs/managing-content/#create-slides) feature and link using `slides` parameter in the front matter of the talk file
@@ -72,4 +68,4 @@ projects:
 
 # Further event details, including [page elements](https://wowchemy.com/docs/writing-markdown-latex/) such as image galleries, can be added to the body of this page.
 
-The 63rd Annual Conference of the Society for Economic and Social Sciences of Agriculture (GEWISOLA) will take place from Wednesday, 20 September to Friday, 22 September 2023 at the Georg August University in Göttingen. The conference theme is: "Sustainable food systems and land use change" 
+The 63rd Annual Conference of the Society for Economic and Social Sciences of Agriculture (GEWISOLA) will take place from Wednesday, 20 September to Friday, 22 September 2023 at the Georg August University in Göttingen. The conference theme is "Sustainable food systems and land use change" 
