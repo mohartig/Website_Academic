@@ -55,7 +55,7 @@ education:
 social:
   - icon: envelope
     icon_pack: fas
-    link: '/#contact'
+    link: 'mailto:moritz.hartig@uni-goettingen.de'
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/moritzH11
