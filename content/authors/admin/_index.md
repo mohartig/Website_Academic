@@ -24,7 +24,7 @@ organizations:
     url:  https://sfb1502.de/
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include spatial analysis of farm-level observations, productivity and efficiency analysis, and development economics.
+# bio: My research interests include spatial analysis of farm-level observations, productivity and efficiency analysis, and development economics.
 
 # Interests to show in About widget
 interests:
@@ -82,5 +82,5 @@ email: 'moritz.hartig@uni-goettingen.de'
 highlight_name: true
 ---
 
-I'm a PhD Student in Agriculture Economics at the University of Göttingen and the CRC 1502 DETECT. I focus on spatial analysis, spatial downscaling, productivity and efficiency analysis of european agricultural farms.
+I'm a PhD student in Agricultural Economics at the University of Göttingen and CRC 1502 DETECT. My research focuses on spatial analysis, spatial downscaling, and the analysis of productivity and efficiency in European agricultural farms.
 {style="text-align: justify;"}
