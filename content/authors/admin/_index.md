@@ -38,11 +38,11 @@ education:
     - course: PhD in Agriculture Economics
       institution: University of Göttingen
       year: present
-    - course: MSc in Development Economics (Double Degree)
-      institution: University of Göttingen, Germany; University of Florence, Italy
+    - course: MSc in Development Economics
+      institution: Double Degree at University of Göttingen and University of Florence
       year: 2022
     - course: BSc in Economics
-      institution: University of Mannheim, Germany; University of North Carolina at Greensboro, USA
+      institution: University of Mannheim and University of North Carolina at Greensboro
       year: 2020
 
 # Social/Academic Networking
