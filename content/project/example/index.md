@@ -7,7 +7,7 @@ tags:
 # Optional external URL for project (replaces project detail page).
 external_link: 'https://sfb1502.de/projects/cluster-a/a05'
 
-image: featured.png
+image:
   caption:
   focal_point: Smart
 
