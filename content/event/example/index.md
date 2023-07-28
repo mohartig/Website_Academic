@@ -12,8 +12,8 @@ address:
   postcode: '37073'
   country: Germany
 
-summary: An example talk using Wowchemy's Markdown slides feature.
-abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
+summary: Improving Geographical Accuracy of Agricultural Data - A Probabilistic Spatial Downscaling Approach
+abstract: 'Farm Accountancy Data Network (FADN) comes without the exact location. It is generally aggregated at NUTS-2 and without agro-climatic information. However, the assessment of weather-related farm production effects requires agro-climatic and spatial farm information. When analyzing effects of weather on agricultural outcomes with incorrect weather variables, we potentially introduce measurement errors in weather regressors [(Li and Ortiz-Bobea, 2022)](https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.21). Existing downscaling approaches not available at temporal and spatial requirements for 15-year time-series and EU-wide analysis [(Kempen et al., 2011)](https://www.sciencedirect.com/science/article/pii/S0167880910002033). Therefore, we develop an open-access framework to downscale FADN farm-level data from NUTS-2 to NUTS-3 utilizing a Bayesian Highest Posterior Density Concept.'
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
