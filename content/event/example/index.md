@@ -2,15 +2,15 @@
 title: 63rd GEWISOLA Conference
 
 event: 63rd GEWISOLA Conference
-event_url: 
+event_url: 'https://www.uni-goettingen.de/en/668052.html'
 
 location: Göttingen
 address:
-  street: 450 Serra Mall
-  city: Stanford
-  region: CA
-  postcode: '94305'
-  country: United States
+  street: Platz der Göttinger 7
+  city: Göttingen
+  region: Niedersachsen
+  postcode: '37073'
+  country: Germany
 
 summary: An example talk using Wowchemy's Markdown slides feature.
 abstract: 'Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellusac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam.'
