@@ -1,10 +1,10 @@
 ---
-title: Example Talk
+title: 63rd GEWISOLA Conference
 
-event: Wowchemy Conference
-event_url: https://example.org
+event: 63rd GEWISOLA Conference
+event_url: [https://example.org](https://www.uni-goettingen.de/en/668052.html)
 
-location: Wowchemy HQ
+location: Göttingen
 address:
   street: 450 Serra Mall
   city: Stanford
