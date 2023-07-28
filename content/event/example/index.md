@@ -23,13 +23,13 @@ date_end: '2023-09-22T12:00:00Z'
 all_day: true
 
 # Schedule page publish date (NOT talk date).
-publishDate: '2023-07-28T00:00:00Z'
+publishDate: '2022-07-28T00:00:00Z'
 
 authors: Moritz Hartig, Stefan Seifert, Silke Hüttel
 tags: []
 
 # Is this a featured talk? (true/false)
-featured: false
+featured: true
 
 image:
   caption: 'GEWISOLA'
