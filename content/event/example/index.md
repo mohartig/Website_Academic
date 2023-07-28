@@ -26,7 +26,7 @@ all_day: true
 publishDate: '2022-07-28T00:00:00Z'
 
 authors: Moritz Hartig, Stefan Seifert, Silke Hüttel
-tags: []
+tags: [talks]
 
 # Is this a featured talk? (true/false)
 featured: true
