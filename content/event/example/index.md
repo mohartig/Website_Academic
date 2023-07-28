@@ -5,13 +5,12 @@ event: 63rd GEWISOLA Conference
 event_url: https://www.uni-goettingen.de/en/668052.html
 
 location: Göttingen, Germany
-
- address:
+address:
   street: Platz der Göttinger 7
   city: Göttingen
   region: Niedersachsen
   postcode: '37073'
-  country: Göttingen
+  country: Göttingen  
 
 summary: Improving Geographical Accuracy of Agricultural Data - A Probabilistic Spatial Downscaling Approach
 abstract: 'Farm Accountancy Data Network (FADN) comes without the exact location. It is generally aggregated at NUTS-2 and without agro-climatic information. However, the assessment of weather-related farm production effects requires agro-climatic and spatial farm information. When analyzing effects of weather on agricultural outcomes with incorrect weather variables, we potentially introduce measurement errors in weather regressors [(Li and Ortiz-Bobea, 2022)](https://onlinelibrary.wiley.com/doi/full/10.1002/jaa2.21). Existing downscaling approaches not available at temporal and spatial requirements for 15-year time-series and EU-wide analysis [(Kempen et al., 2011)](https://www.sciencedirect.com/science/article/pii/S0167880910002033). Therefore, we develop an open-access framework to downscale FADN farm-level data from NUTS-2 to NUTS-3 utilizing a Bayesian Highest Posterior Density Concept.'
