@@ -141,8 +141,8 @@ sections:
     id: talks
     content:
       title: Recent & Upcoming Talks
-#      filters:
-#        folders:
+      filters:
+        folders:
 #          - event
     design:
       columns: '2'
