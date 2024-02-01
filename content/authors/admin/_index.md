@@ -79,5 +79,5 @@ email: 'moritz.hartig@uni-goettingen.de'
 highlight_name: true
 ---
 
-I'm a PhD student in Agricultural Economics at the University of Göttingen and CRC 1502 DETECT. My research focuses on spatial analysis, spatial downscaling, and the analysis of productivity and efficiency in European agricultural farms.
+I'm a PhD student in Agricultural Economics at the University of Göttingen and CRC 1502 DETECT. My research focuses on spatial analysis, spatial downscaling, and the analysis of productivity and efficiency of European agricultural farms.
 {style="text-align: justify;"}
