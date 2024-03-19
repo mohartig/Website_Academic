@@ -24,7 +24,7 @@ all_day: false
 # Schedule page publish date (NOT talk date).
 publishDate: '2017-01-01T00:00:00Z'
 
-authors: [admin, Stefan Seifert, Silke Hüttel]
+authors: [admin, Stefan Seifert, Jan-Henrik Haunert Silke Hüttel]
 tags: []
 
 # Is this a featured talk? (true/false)

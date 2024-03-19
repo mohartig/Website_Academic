@@ -1,5 +1,5 @@
 ---
-title: Scientific Presentation
+title: 10th EAAE PhD Workshop
 
 event: 10th EAAE PhD WORKSHOP
 event_url: 'https://haae.eu/10th-eaae-phd-workshop-2024/'
