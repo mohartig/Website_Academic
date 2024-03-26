@@ -49,5 +49,6 @@ projects:
   - example
 ---
 
-EWEPA is the leading biennial conference devoted to the methodology and application of productivity, efficiency and performance analysis of firms, public services and industries, joining academics and practitioners from all continents. The 2024 event will include plenary sessions, regular parallel sessions and thematic parallel sessions from the 19th to the 21st of June. I will present our work on the probabilistic spatial downscaling of FADN data.
+EWEPA is the leading biennial conference devoted to the methodology and application of productivity, efficiency and performance analysis of firms, public services and industries, joining academics and practitioners from all continents. The 2024 event will include plenary sessions, regular parallel sessions and thematic parallel sessions from the 19th to the 21st of June. I will present our work on the efficiency analysis and climate extremes of FADN data.
+
 
