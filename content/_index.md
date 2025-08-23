@@ -174,7 +174,7 @@ sections:
         - icon: twitter
           icon_pack: fab
           name: DM Me
-          link: 'https://twitter.com/moritzH11'
+          link: 'https://bsky.app/profile/moritzhartig.bsky.social'
       # Automatically link email and phone or display as text?
       autolink: true
       # Email form provider

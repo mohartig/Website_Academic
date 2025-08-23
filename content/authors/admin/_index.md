@@ -14,7 +14,7 @@ status:
 superuser: true
 
 # Role/position/tagline
-role: PhD Student
+role: PhD Candidate
 
 # Organizations/Affiliations to show in About widget
 organizations:
@@ -55,7 +55,7 @@ social:
     link: 'mailto:moritz.hartig@uni-goettingen.de'
   - icon: twitter
     icon_pack: fab
-    link: https://twitter.com/moritzH11
+    link: https://bsky.app/profile/moritzhartig.bsky.social
     label: Follow me on Twitter
     display:
       header: true
