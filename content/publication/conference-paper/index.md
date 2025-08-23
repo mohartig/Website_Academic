@@ -1,19 +1,18 @@
 ---
-title: 'An example conference paper'
+title: 'Assessing European Wheat Yield Gaps'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - 
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
-  - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2025-08-26T00:00:00Z'
 doi: ''
 
 # Schedule page publish date (NOT publication's date).
@@ -26,13 +25,14 @@ publishDate: '2017-01-01T00:00:00Z'
 publication_types: ['1']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Wowchemy Conference*
-publication_short: In *ICW*
+publication: In EAAE 2025
+publication_short: In EAAE 2025
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Europe’s favourable climate and soils are pivotal for global cereal production and Food security. Ensuring cereal productivity is an important cornerstone of this security. However, yield gaps-the differences between potential and actual yields—persist. Addressing and closing These gaps is essential for ensuring global food security. Here, we assess wheat yield gaps, the second most widely grown cereal, for selected European countries (Germany, Spain, Portugal, Denmark, and Sweden). We quantify the Efficiency yield gap—the difference between realized yields and the maximum obtainable yield for a given resource allocation. We evaluate determinants of the efficiency yield gap and test farm organisation, agro-climatic conditions, and the European Union’s (EU) Common Agricultural Policy (CAP). We combine EU Farm Accountancy Data Network farm-level data from 2004 to 2020 with simulated potential yields from the AquaCrop crop growth model. We optimize soil moisture within AquaCrop to simulate potential yields and estimate the total yield gap. Using stochastic frontier analysis, we obtain estimates of the efficiency yield gap and test determinants, among others, altitude, the share of hired labour, and the CAP reforms. Based on a sample of wheat-producing farms, we find an average wheat yield gap of 35.4% in Germany, 56.6% in Spain, 18.3% in Portugal, 34.2% in
+Denmark, and 42.4% in Sweden. On average, the sampled farms could increase wheat output by 3.1 t/ha by closing the efficiency gap and an additional 5.8 t/ha by bridging the gap to potential yields. We find CAP reforms to widen yield gaps. In contrast, a higher share of hired labour is positively associated with closing yield gaps in Denmark and Sweden. These findings underscore the need to address and close wheat yield gaps by, for instance, incentivizing adaptation.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Here, we assess wheat yield gaps, the second most widely grown cereal, for selected European countries (Germany, Spain, Portugal, Denmark, and Sweden). We quantify the Efficiency yield gap—the difference between realized yields and the maximum obtainable yield for a given resource allocation.
 
 tags: []
 
@@ -44,21 +44,21 @@ featured: true
 # - name: Custom Link
 #   url: http://example.org
 
-url_pdf: ''
-url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_poster: ''
-url_project: ''
-url_slides: ''
-url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
-url_video: 'https://youtube.com'
+# url_pdf: ''
+# url_code: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_dataset: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_poster: ''
+# url_project: ''
+# url_slides: ''
+ url_source: 'https://github.com/wowchemy/wowchemy-hugo-themes'
+# url_video: 'https://youtube.com'
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
-image:
-  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
-  focal_point: ''
-  preview_only: false
+# image:
+#  caption: 'Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)'
+#  focal_point: ''
+#  preview_only: false
 
 # Associated Projects (optional).
 #   Associate this publication with one or more of your projects.
