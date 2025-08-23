@@ -29,8 +29,8 @@ organizations:
 # Interests to show in About widget
 interests:
   - Efficiency and Productivity Analysis
+  - Climate (change)
   - Agricultural Business, Economics, and Policy
-  - Development Economics
 
 # Education to show in About widget
 education:
@@ -79,5 +79,5 @@ email: 'moritz.hartig@uni-goettingen.de'
 highlight_name: true
 ---
 
-I'm a PhD student in Agricultural Economics at the University of Göttingen and CRC 1502 DETECT. My research focuses on spatial analysis, spatial downscaling, and the analysis of productivity and efficiency of European agricultural farms.
+I'm a PhD candidate in Agricultural Economics at the University of Göttingen and the CRC 1502 DETECT. My research focuses on spatial analysis, spatial downscaling, and the interaction of Climate (extremes) with productivity and efficiency of European agricultural farms.
 {style="text-align: justify;"}
