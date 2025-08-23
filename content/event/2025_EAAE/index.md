@@ -18,8 +18,8 @@ Denmark, and 42.4% in Sweden. On average, the sampled farms could increase wheat
 
 # Talk start and end times.
 #   End time can optionally be hidden by prefixing the line with `#`.
-date: '2024-26-05T10:00:00Z'
-# date_end: '2025-28-07T12:00:00Z'
+date: '2025-26-05T10:00:00Z'
+date_end: '2025-28-07T12:00:00Z'
 all_day: TRUE
 
 # Schedule page publish date (NOT talk date).
