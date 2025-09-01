@@ -1,6 +1,6 @@
 module github.com/wowchemy/starter-hugo-academic
 
-go 1.15
+go 1.24
 
 require (
   github.com/wowchemy/wowchemy-hugo-themes/modules/wowchemy-plugin-netlify-cms main
